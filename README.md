@@ -1,4 +1,4 @@
-liberty-chess
+Malamen
 =============
 
 It is one proyect chess engine.
